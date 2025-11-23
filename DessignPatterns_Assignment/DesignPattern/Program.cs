@@ -3,7 +3,8 @@ using DesignPattern.Factory;
 using DesignPattern.Observer;
  
 namespace DesignPattern;
-class Program
+
+internal class Program
 {
     static void Main(string[] args)
     {
